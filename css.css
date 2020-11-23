@@ -1,0 +1,35 @@
+#Jelenlegi
+{
+	background-color: black;
+	color: white;
+}	
+#Zöld
+{
+	background-color: #d0c69c;
+	border: 2px solid black;
+	width: 100%;
+}
+
+body
+{
+	background-color: #B2A05B;
+}
+
+#Szöveg
+{
+	font-size: 20pt;
+}
+
+h1
+{
+	text-align: center;
+}
+
+.Kép
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 500px;
+	width: auto;
+}
